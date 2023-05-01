@@ -10,3 +10,15 @@
 + 랜덤으로 문제 추천 설정
 + 난이도 최소 실버 3, 최대 골드 4 설정
 
+
+
+
+### 0502
+
+[15900번(백준)](https://www.acmicpc.net/problem/15900)
+
+[풀이](https://github.com/johan1103/boj_java/blob/main/src/main/java/org/bj15900/ps15900.java)
+
+[16948번(백준)](https://www.acmicpc.net/problem/16948)
+
+[풀이](https://github.com/johan1103/boj_java/blob/main/src/main/java/org/bj16948/ps16948.java)
