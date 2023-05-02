@@ -15,16 +15,20 @@
 
 ### 0502
 
-[15900번(백준)](https://www.acmicpc.net/problem/15900)
+[15900번(문제)](https://www.acmicpc.net/problem/15900)
 
-[풀이](https://github.com/johan1103/boj_java/blob/main/src/main/java/org/bj15900/ps15900.java)
+[15900번(풀이)](https://github.com/johan1103/boj_java/blob/main/src/main/java/org/bj15900/ps15900.java)
 
-[16948번(백준)](https://www.acmicpc.net/problem/16948)
+[16948번(문제)](https://www.acmicpc.net/problem/16948)
 
-[풀이](https://github.com/johan1103/boj_java/blob/main/src/main/java/org/bj16948/ps16948.java)
+[16948번(풀이)](https://github.com/johan1103/boj_java/blob/main/src/main/java/org/bj16948/ps16948.java)
 
 ### 0503
 
-[2002번(백준)](https://www.acmicpc.net/problem/2002)
+[2002번(문제)](https://www.acmicpc.net/problem/2002)
 
-[16948번(백준)](https://www.acmicpc.net/problem/16948)
+[2002번(풀이)](https://github.com/johan1103/boj_java/blob/main/src/main/java/org/bj2002/ps2002.java)
+
+[5002번(문제)](https://www.acmicpc.net/problem/5002)
+
+[5002번(풀이)](https://github.com/johan1103/boj_java/blob/main/src/main/java/org/bj5002/ps5002.java)
