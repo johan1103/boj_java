@@ -32,3 +32,13 @@
 [5002번(문제)](https://www.acmicpc.net/problem/5002)
 
 [5002번(풀이)](https://github.com/johan1103/boj_java/blob/main/src/main/java/org/bj5002/ps5002.java)
+
+### 0504
+
+[1647번(문제)](https://www.acmicpc.net/problem/1647)
+
+[1647번(풀이)](https://github.com/johan1103/boj_java/blob/main/src/main/java/org/bj1647/ps1647.java)
+
+[13911번(문제)](https://www.acmicpc.net/problem/13911)
+
+[13911번(풀이)](https://github.com/johan1103/boj_java/blob/main/src/main/java/org/bj13911/ps13911.java)
